@@ -2,6 +2,8 @@
 
 This repository is merged into https://github.com/symbo-ls/smbls
 
+---
+
 [![npm version](https://badge.fury.io/js/css-in-props.svg)](https://badge.fury.io/js/css-in-props)
 
 ### Setup
