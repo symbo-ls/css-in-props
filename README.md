@@ -1,6 +1,6 @@
 # css-in-props
 
-UI Library in composition of [Scratch](https://github.com/smbo-ls/scratch) and [DOMQL](https://github.com/domql/domql)
+This repository is merged into https://github.com/symbo-ls/smbls
 
 [![npm version](https://badge.fury.io/js/css-in-props.svg)](https://badge.fury.io/js/css-in-props)
 
